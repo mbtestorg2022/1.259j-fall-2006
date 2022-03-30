@@ -4,6 +4,7 @@ description: This resource contains slides on office automation and communicatio
   finance systems, planning systems, management systems, and the advanced technologies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-259j-transit-management-fall-2006/ef5e189f63884d027488ee91c22d5f4b_lect24ja.pdf
 file_type: application/pdf
+parent_uid: c5199ea9-e6af-4dae-515d-86e4acb93657
 resourcetype: Document
 title: lect24ja.pdf
 uid: ef5e189f-6388-4d02-7488-ee91c22d5f4b

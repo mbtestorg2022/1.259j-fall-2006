@@ -4,6 +4,7 @@ description: This resource contains a report on the innovative finance technique
   for the transit agencies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-259j-transit-management-fall-2006/0a0cf6b29f65a9833c8899aac776560b_tcrp_ird_13.pdf
 file_type: application/pdf
+parent_uid: 334042d0-415f-851b-0a8c-6dd07292848b
 resourcetype: Document
 title: tcrp_ird_13.pdf
 uid: 0a0cf6b2-9f65-a983-3c88-99aac776560b
