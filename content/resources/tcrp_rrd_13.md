@@ -4,6 +4,11 @@ description: This resource explains the leveraging information for better transi
   maintenance.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-259j-transit-management-fall-2006/707d3fb3238d5728e4f63e864b14fa55_tcrp_rrd_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 334042d0-415f-851b-0a8c-6dd07292848b
 resourcetype: Document
 title: tcrp_rrd_13.pdf

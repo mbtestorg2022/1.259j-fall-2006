@@ -4,6 +4,11 @@ description: This resource contains the role of performance-based measures in al
   funding for transit operations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-259j-transit-management-fall-2006/736f2517a02877b9a3a05205efa20550_tsyn06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 334042d0-415f-851b-0a8c-6dd07292848b
 resourcetype: Document
 title: tsyn06.pdf

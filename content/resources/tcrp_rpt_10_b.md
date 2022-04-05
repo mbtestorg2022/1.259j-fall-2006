@@ -4,6 +4,11 @@ description: This resource contains a description on the general approach to mak
   fare-related decisions in the transit industry.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-259j-transit-management-fall-2006/6173d0890a91cdf4bedb05bbe2a50781_tcrp_rpt_10_b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 334042d0-415f-851b-0a8c-6dd07292848b
 resourcetype: Document
 title: tcrp_rpt_10_b.pdf
